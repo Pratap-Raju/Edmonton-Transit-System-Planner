@@ -85,5 +85,5 @@ This project was completed as part of CMPUT 175 (Introduction to the Foundations
 
 👤 Author
 
-Pratap Kolukuluri
+Pratap Kolukuluri,
 Computer Science Student
